@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan C. Roncallo</h1>
 <h2 align="center">Fullstack Developer and Microbiologist</h2>
 <h3 align="center">A tech-fan and passionate for science in all fields from Colombia</h3>
-
+<p>&nbsp;</p>
 <p align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=roncalloj&&title=Commits,Repositories,PullRequest&no-bg=true&margin-w=15&theme=juicyfresh" alt="roncalloj" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=roncalloj&column=3&title=Commits,Repositories,PullRequest&no-bg=true&margin-w=15&theme=juicyfresh" alt="roncalloj" />
   </a>
+  
+  <p>&nbsp;</p>
 
   - 🔗 With my friend, we develop an e-commerce for a chocolate brand called "Kurius chocolate" 👉 [Kurius e-commerce Chocolates](https://github.com/roncalloj/e-commerce_chocolate)
 
@@ -72,11 +74,11 @@
     </a> 
   </p>
 </p>  
-
+<p>&nbsp;</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roncalloj&show_icons=true&locale=en&layout=compact" alt="roncalloj"/>
 </p>
-<p></p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=roncalloj&show_icons=true&locale=en" alt="roncalloj" />
 </p>
