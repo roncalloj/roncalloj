@@ -74,7 +74,9 @@
 </p>  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roncalloj&show_icons=true&locale=en&layout=compact" alt="roncalloj" />
-  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roncalloj&show_icons=true&locale=en&layout=compact" alt="roncalloj"/>
+</p>
+<p></p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=roncalloj&show_icons=true&locale=en" alt="roncalloj" />
 </p>
