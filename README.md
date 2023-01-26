@@ -10,7 +10,7 @@
   
   <p>&nbsp;</p>
 
-  - 🔗 With my friend, we develop an e-commerce for a chocolate brand called "Kurius chocolate" 👉 [Kurius e-commerce Chocolates](https://github.com/roncalloj/e-commerce_chocolate)
+  - 🔗 With my friend, we developed an e-commerce for a chocolate brand called "Kurius chocolate" 👉 [Kurius e-commerce Chocolates](https://github.com/roncalloj/e-commerce_chocolate)
 
   - 📚 All of my projects are available at [my GitHub repositories](https://github.com/roncalloj?tab=repositories)
 
