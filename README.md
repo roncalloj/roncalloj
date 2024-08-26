@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan C. Roncallo</h1>
 <h2 align="center">Fullstack Developer and Microbiologist</h2>
-<h3 align="center">A tech-fan and passionate for science in all fields from Colombia</h3>
+<h3 align="center">A tech fan and passionate about science in all fields from Colombia</h3>
 <p>&nbsp;</p>
 <p align="center">
   
@@ -14,7 +14,7 @@
 
   - 📚 All of my projects are available at [my GitHub repositories](https://github.com/roncalloj?tab=repositories)
 
-  - ✉️ You can reach me out at **r-callo@hotmail.com**
+  - ✉️ You can reach me out at **roncalloj@outlook.com**
 
   - 💬 Spanish - Native.
   - 💬 Portuguese - Advanced.  
@@ -24,8 +24,8 @@
   - ⁉️ About Myself: 
     - I play the guitar since 2005
     - I'm a DIY guy
-    - I'm a have knowledge in molecular and synthetic biology
-    - I'm red belt in taekwondo (one belt away from the black one)
+    - I have knowledge of molecular and synthetic biology
+    - I'm a red belt in taekwondo (one belt away from the black one)
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
